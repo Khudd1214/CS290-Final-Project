@@ -1,0 +1,77 @@
+h2 {
+  text-align: center;
+}
+.menuContainer {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-left: 30%;
+}
+
+.outsideLink {
+  font-size: 20px;
+  margin-bottom: 2rem;
+}
+
+.menuItem {
+  display: inline;
+  margin-left: 0;
+  padding-right: 1rem;
+  border: solid;
+}
+
+.galleryItem {
+  width: 300px;
+  height: 300px;
+  margin-left: 38%;
+}
+
+.galleryButton {
+  margin-left: 45%;
+}
+
+.galleryHeading {
+  text-align: center;
+}
+
+.feedbackField {
+  width: 30%;
+}
+
+#transactionMenu {
+  overflow: scroll;
+  width: 250px;
+  height: 100px;
+  margin-left: 35%;
+}
+
+.hidden {
+  display: none;
+}
+
+.leftMargin {
+  margin-left: 35%;
+}
+
+.imageCitation {
+  width: 500px;
+  height: 75px;
+  margin-left: 30%;
+  overflow: scroll;
+}
+
+.textAlign {
+  text-align: center;
+}
+
+#changeTypeButton {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  margin-left: 35%;
+}
+
+#exportButton {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  margin-left: 35%;
+}
